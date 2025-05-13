@@ -1,4 +1,4 @@
-"# AI-Coach-Assistant" 
+
 
 # ⚽ AI Coach Assistant avec Crewai
 
@@ -39,10 +39,10 @@ Développer un système basé sur l'intelligence artificielle capable de :
 2. **Installer les dépendances :** 
     pip install -r requirements.txt
 3. **Configurer les clés API :**
-   dans le fichier .env :
-       - GEMINI_API_KEY="........" 
-       - SCRAPE_API_KEY ="......." 
-       - TAVILY_API_KEY ="......."
+   ***dans le fichier .env :***
+  -  GEMINI_API_KEY="........" 
+  -  SCRAPE_API_KEY ="......." 
+  -  AVILY_API_KEY ="......."
 4. **Exécuter l’analyse :**
     python main.py
 
