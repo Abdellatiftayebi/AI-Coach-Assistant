@@ -48,14 +48,16 @@ Offrir un outil autonome capable d'assister les analystes et entraîneurs sporti
    ```bash
    git clone https://github.com/votre-utilisateur/ai-coach-assistant.git
    cd ai-coach-assistant
-2. **Installer les dépendances :** 
+2. **Installer les dépendances :**
+    ```bash
     pip install -r requirements.txt
-3. **Configurer les clés API :**
+4. **Configurer les clés API :**
    ***dans le fichier .env :***
   -  GEMINI_API_KEY="........" 
   -  SCRAPE_API_KEY ="......." 
   -  AVILY_API_KEY ="......."
 4. **Exécuter l’analyse :**
+    ```bash
     streamlit run projet.py
 
    
