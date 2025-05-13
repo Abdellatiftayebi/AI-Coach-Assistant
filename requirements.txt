@@ -1,0 +1,7 @@
+crewai
+langchain
+pydantic
+tavily-python
+scrapegraph-py
+streamlit
+python-dotenv 

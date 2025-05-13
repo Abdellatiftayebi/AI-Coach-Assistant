@@ -1,0 +1,70 @@
+{
+  "results": [
+    {
+      "Nom_de_la_source": "Real Madrid Official Website",
+      "URL": "https://www.realmadrid.com/en-US",
+      "Type_d_information_disponible": "Latest news, squad information, match reports, and club information.",
+      "score": 5.0
+    },
+    {
+      "Nom_de_la_source": "Transfermarkt",
+      "URL": "https://www.transfermarkt.com/real-madrid/kader/verein/418",
+      "Type_d_information_disponible": "Detailed squad information, player profiles, market values, transfers.",
+      "score": 4.5
+    },
+    {
+      "Nom_de_la_source": "Tribuna.com",
+      "URL": "https://tribuna.com/en/clubs/real-madrid/squad/2024-2025/",
+      "Type_d_information_disponible": "Squad list, player information (age, height, weight), starting lineups.",
+      "score": 4.0
+    },
+    {
+      "Nom_de_la_source": "LaLiga Official Website",
+      "URL": "https://www.laliga.com/en-GB/clubs/real-madrid/results",
+      "Type_d_information_disponible": "Real Madrid results in La Liga, match schedules and news.",
+      "score": 4.8
+    },
+    {
+      "Nom_de_la_source": "LiveScore.com",
+      "URL": "https://www.livescore.com/en/football/team/real-madrid/4009/overview/",
+      "Type_d_information_disponible": "Real Madrid latest scores, results, fixtures and tables.",
+      "score": 4.2
+    },
+    {
+      "Nom_de_la_source": "Real Madrid California",
+      "URL": "https://realmadridcalifornia.com/real-madrid-tactics-an-in-depth-tactical-analysis/",
+      "Type_d_information_disponible": "In-depth tactical analysis, formations, player roles, and Ancelotti's philosophy.",
+      "score": 4.7
+    },
+    {
+      "Nom_de_la_source": "The Football Analyst",
+      "URL": "https://the-footballanalyst.com/real-madrid-carlo-ancelotti-tactical-analysis/",
+      "Type_d_information_disponible": "Tactical analysis, formations, and player dynamics under Carlo Ancelotti.",
+      "score": 4.5
+    },
+    {
+      "Nom_de_la_source": "Total Football Analysis",
+      "URL": "https://totalfootballanalysis.com/team-analysis/carlo-ancelotti-real-madrid-attack-tactics-202425-tactical-analysis",
+      "Type_d_information_disponible": "Tactical analysis of Real Madrid's attack and Carlo Ancelotti's tactics.",
+      "score": 4.6
+    },
+    {
+      "Nom_de_la_source": "Coaches Voice",
+      "URL": "https://learning.coachesvoice.com/cv/manchester-city-real-madrid-ucl-tactics-2024/",
+      "Type_d_information_disponible": "Tactical analysis of specific matches, focusing on tactics and key moments.",
+      "score": 4.3
+    },
+    {
+      "Nom_de_la_source": "ESPN",
+      "URL": "https://www.espn.com/soccer/team/squad/_/id/86/real-madrid",
+      "Type_d_information_disponible": "Real Madrid 2024-25 Squad",
+      "score": 3.5
+    },
+    {
+      "Nom_de_la_source": "worldfootball.net",
+      "URL": "https://www.worldfootball.net/teams/real-madrid/2025/2/",
+      "Type_d_information_disponible": "Squad / Appearances Transfers Manager history Players from A-Z Historical squads Historical results Profile",
+      "score": 3.8
+    }
+  ]
+}

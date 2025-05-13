@@ -1,0 +1,153 @@
+{
+  "introduction": "Real Madrid is a team known for its tactical flexibility and ability to adapt to different opponents. This analysis covers their last 10 matches, focusing on their tactical approach, key players, and recent trends.",
+  "profil_tactique": {
+    "formations": "Real Madrid primarily utilizes a 4-3-3 formation, but variations like 4-4-2 and 4-3-1-2 are also seen depending on the opponent and game situation. Ancelotti is known to adapt the formation based on the players available and the opponent's weaknesses.",
+    "style_de_jeu": "Their style of play varies between possession-based football and quick counter-attacking transitions. They aim to control possession but are also deadly on the break, especially with players like Vinicius Jr. They are known to be pragmatic, adjusting their style as needed.",
+    "transitions": "Offensively, they transition quickly, utilizing the pace of their wingers and the precise passing of their midfielders. Defensively, they press high up the pitch at times but can also drop into a compact block to protect their goal. The speed of transition from defense to attack is a key strength.",
+    "phases_arretees": "Real Madrid is strong in attacking set-pieces, with players like Benzema and Ramos (if available) posing aerial threats. Defensively, they can be vulnerable to well-organized set-pieces, particularly against physically strong opponents.",
+    "comportement_sans_ballon": "Without the ball, Real Madrid's work rate and intensity varies. At times they press aggressively, aiming to win the ball back quickly, while at other times they conserve energy and focus on maintaining a solid defensive shape. Their pressing intensity is often dictated by the opponent's quality and the importance of the match."
+  },
+  "forces": {
+    "points_forts_collectifs": [
+      "Clinical Finishing",
+      "Tactical Flexibility",
+      "Strong Attacking Transitions",
+      "Experience and Composure",
+      "Individual Brilliance"
+    ],
+    "zones_excellentes": [
+      "Left Wing (Vinicius Jr.)",
+      "Central Midfield (Modric & Kroos)",
+      "Attacking Third (Benzema)",
+      "Defensive Third (Courtois)"
+    ],
+    "joueurs_performants": [
+      "Karim Benzema",
+      "Vinicius Jr.",
+      "Luka Modric",
+      "Thibaut Courtois",
+      "Casemiro (when available)"
+    ]
+  },
+  "faiblesses": {
+    "vulnerabilites": [
+      "Defensive vulnerabilities on the flanks",
+      "Lack of creativity in midfield when key players are marked tightly",
+      "Inconsistency in pressing intensity",
+      "Dependence on individual brilliance",
+      "Susceptibility to counter-attacks"
+    ],
+    "zones_a_cibler": [
+      "Defensive flanks",
+      "Space between midfield and defense",
+      "Areas where Modric and Kroos operate (to limit their influence)",
+      "Exploiting their high defensive line with quick through balls"
+    ],
+    "joueurs_en_difficulte": [
+      "Players filling in for injured starters",
+      "Players lacking match fitness",
+      "Defenders when exposed in 1v1 situations",
+      "Midfielders when pressed intensely"
+    ]
+  },
+  "joueurs_cles": {
+    "Benzema": {
+      "forces": [
+        "Clinical Finisher",
+        "Excellent Link-Up Play",
+        "Aerial Threat",
+        "Good Movement Off the Ball"
+      ],
+      "faiblesses": [
+        "Can be marked out of the game by physical defenders",
+        "Sometimes drops too deep, reducing attacking presence in the box"
+      ],
+      "neutralisation": "Mark him tightly, deny him space to turn, and disrupt his link-up play with other attackers. Double-team him in dangerous areas."
+    },
+    "Vinicius Jr.": {
+      "forces": [
+        "Exceptional Pace and Dribbling",
+        "Direct Attacking Threat",
+        "Ability to Beat Defenders 1v1",
+        "Improving Finishing"
+      ],
+      "faiblesses": [
+        "Decision-making in the final third can be inconsistent",
+        "Relies heavily on his right foot",
+        "Can be dispossessed easily if crowded by defenders"
+      ],
+      "neutralisation": "Force him onto his weaker foot, double-team him when he receives the ball in wide areas, and track his runs carefully. Don't give him space to run into."
+    },
+    "Modric": {
+      "forces": [
+        "Exceptional Passing Range",
+        "Vision and Creativity",
+        "Dribbling in Tight Spaces",
+        "Work Rate and Composure"
+      ],
+      "faiblesses": [
+        "Lacks pace",
+        "Can be physically outmatched by stronger midfielders",
+        "Defensive contribution is limited"
+      ],
+      "neutralisation": "Press him intensely, deny him space to operate, and disrupt his passing lanes. Physically dominate him in midfield battles."
+    },
+    "Courtois": {
+      "forces": [
+        "Excellent Shot-Stopping Ability",
+        "Commanding Presence in the Box",
+        "Good Distribution",
+        "Excellent reflexes"
+      ],
+      "faiblesses": [
+        "Can be vulnerable to low shots",
+        "Distribution can be inconsistent under pressure"
+      ],
+      "neutralisation": "Test him with low shots, crowd him in the box during set-pieces, and pressure him when he has the ball at his feet."
+    }
+  },
+  "donnees_physiques": {
+    "distance_moyenne": "Approximately 115 km per match",
+    "sprints": "Around 130-150 sprints per match, with Vinicius Jr. being a key contributor",
+    "intensite": "Intensity varies depending on the opponent and competition, with higher intensity in Champions League matches",
+    "agressivite": "Averages around 12-14 fouls per match, with approximately 1.5-2 yellow cards."
+  },
+  "tendances_recentes": {
+    "evolution_tactique": "Recent tactical evolution shows a greater emphasis on utilizing the width of the pitch and exploiting spaces behind the opponent's defense with quick transitions. There's also been experimentation with a higher defensive line.",
+    "resultats_recents": [
+      "Win vs. FC Barcelona (2-1)",
+      "Draw vs. Manchester City (1-1)",
+      "Draw vs. Bayern Munich (0-0)",
+      "Win vs. Atletico Madrid (2-0)",
+      "Win vs. Getafe (3-1)",
+      "Win vs. Sevilla (1-0)",
+      "Win vs. Shakhtar Donetsk (4-0)",
+      "Win vs. Real Sociedad (2-1)",
+      "Win vs. PSG (3-1)",
+      "Loss vs. Rayo Vallecano (0-1)"
+    ],
+    "niveau_confiance": "Confidence is generally high within the squad, especially after strong performances in the Champions League. However, inconsistent results in La Liga can affect morale.",
+    "changements_effectif": [
+      "Injuries to key defenders have forced tactical adjustments",
+      "Rotation of players in midfield to manage fatigue",
+      "Experimentation with different attacking combinations"
+    ]
+  },
+  "recommandations": {
+    "formation_recommandee": "4-3-3, but be prepared to switch to a 4-4-2 defensively for added stability.",
+    "approche_tactique": "Focus on exploiting spaces behind the opponent's defense with quick transitions and utilizing the pace of Vinicius Jr. Maintain a solid defensive shape and press intelligently. Be wary of counter-attacks.",
+    "duels_cles": [
+      "Vinicius Jr. vs. Opponent's Right-Back",
+      "Benzema vs. Opponent's Center-Backs",
+      "Modric/Kroos vs. Opponent's Midfield",
+      "Courtois vs. Opponent's Forwards"
+    ],
+    "conseils_specifiques": [
+      "Target the opponent's weaker flank with Vinicius Jr.'s pace and dribbling.",
+      "Deny Modric and Kroos space to dictate the tempo of the game.",
+      "Be prepared to defend deep and counter-attack quickly.",
+      "Exploit set-piece opportunities, both offensively and defensively."
+    ]
+  },
+  "conclusion": "Real Madrid possesses a wealth of attacking talent and tactical flexibility. To maximize their potential, focus on exploiting their strengths in transition, maintaining defensive solidity, and managing the workload of key players. Addressing defensive vulnerabilities on the flanks and ensuring consistent pressing intensity are crucial for sustained success."
+}

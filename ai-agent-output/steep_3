@@ -1,0 +1,50 @@
+```json
+{
+  "Match": [
+    {
+      "page_url": "https://www.laliga.com/en-GB/clubs/real-madrid/results",
+      "date_match": "04.05.2025",
+      "adversaire": "RC Celta",
+      "score_final": "3-2",
+      "competition": "LALIGA EA SPORTS",
+      "lieu": null,
+      "formation_utilisee": null,
+      "possession_balle": null,
+      "stats_offensives": {},
+      "stats_defensives": {},
+      "joueurs_titulaires": [],
+      "performances_joueurs_cles": [],
+      "moments_decisifs": [],
+      "changements_tactiques": [],
+      "points_forts_observes": [],
+      "faiblesses_observees": [],
+      "style_de_jeu": null,
+      "agent_recommendation_rank": 1,
+      "agent_recommendation_notes": [
+        "Match important pour l'analyse stratégique"
+      ]
+    },
+    {
+      "page_url": "https://www.livescore.com/en/football/team/real-madrid/4009/overview/",
+      "date_match": "2025-05-12",
+      "adversaire": "Mallorca",
+      "score_final": "4-3",
+      "competition": "LaLiga",
+      "lieu": null,
+      "formation_utilisee": null,
+      "possession_balle": null,
+      "stats_offensives": {},
+      "stats_defensives": {},
+      "joueurs_titulaires": [],
+      "performances_joueurs_cles": [],
+      "moments_decisifs": [],
+      "changements_tactiques": [],
+      "points_forts_observes": [],
+      "faiblesses_observees": [],
+      "style_de_jeu": null,
+      "agent_recommendation_rank": null,
+      "agent_recommendation_notes": null
+    }
+  ]
+}
+```
