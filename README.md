@@ -1,34 +1,46 @@
 
 
-# ⚽ AI Coach Assistant avec Crewai
+# ⚽ AI Coach Assistant
 
-AI Coach Assistant est un assistant intelligent conçu pour aider les entraîneurs de football à analyser les équipes adverses, formuler des stratégies de jeu et générer des rapports tactiques détaillés à partir de données collectées automatiquement.
+AI Coach Assistant est un outil d'analyse tactique intelligent conçu pour aider les entraîneurs de football à préparer leurs matchs. En automatisant la collecte d'informations et en générant des rapports précis, cet assistant fournit des recommandations stratégiques basées sur l'analyse de données et l'intelligence artificielle.
 
-## 🧠 Objectif du projet
+## 🚀 Objectif du projet
 
-Développer un système basé sur l'intelligence artificielle capable de :
+Offrir un outil autonome capable d'assister les analystes et entraîneurs sportifs dans la prise de décision, à travers des analyses précises, personnalisables, et exploitables.
 
-- Collecter et extraire automatiquement des informations à partir de sources web (pages officielles, articles, résultats de match, etc.).
-- Analyser les performances et les tactiques d'une équipe adverse.
-- Générer des rapports complets à destination des entraîneurs.
-- Proposer des recommandations stratégiques adaptées.
+## 📊 Fonctionnalités principales
 
-## 🔍 Fonctionnalités principales
+ - Analyse des 5 derniers matchs d'une équipe adverse
 
-- 🔎 **Extraction d’informations** à partir d’URL ciblées.
-- 🧾 **Génération automatique de rapports tactiques** (formations, points forts/faibles, recommandations).
-- 🤖 **Agents multi-rôles** collaborant pour l'analyse (ex. : Data Researcher, Analyste Tactique, Stratégiste).
-- 🗣️ Support du **langage naturel** pour la génération de contenu (LLM).
-- 📊 Analyse basée sur les **5 derniers matchs** de l’adversaire.
+ - Extraction d'informations clés : formation, style de jeu, joueurs clés, faiblesses tactiques
 
-## 🛠️ Technologies utilisées
+ - Recommandations stratégiques pour contrer l'adversaire
 
-- `LangChain` pour l'orchestration des agents.
-- `Replicate` pour l’intégration de modèles LLM externes (ex. : DeepSeek).
-- `BeautifulSoup` & `Requests` pour le scraping web.
-- `Python` (>= 3.10)
-- `Pydantic` pour la structuration des données.
-- `OpenAI` ou `HuggingFace` pour les LLM selon la configuration.
+ - Scraping intelligent de sites web spécifiques à partir d'URL données
+
+ - Structure de données précise avec Pydantic
+
+## 🚧 Technologies utilisées
+
+ - LangChain : Orchestration des agents conversationnels
+
+ - CrewAI : Coordination entre agents pour réaliser des tâches complexes
+
+ - Replicate & Gemini : Utilisation de modèles LLM puissants (DeepSeek, Gemini, etc.)
+
+ - BeautifulSoup & Requests : Scraping web pour la collecte de données
+
+ - Tavily : Recherche contextuelle avancée
+
+ - scrapegraph_py : Extraction d'informations structurées à partir de pages web
+
+ - Python (>= 3.10)
+
+ - Pydantic : Validation et structuration des données
+
+ - Streamlit : Interface utilisateur web simple et interactive
+
+ - dotenv : Gestion sécurisée des variables d'environnement
 
 ## 🚀 Lancer le projet
 
@@ -44,7 +56,7 @@ Développer un système basé sur l'intelligence artificielle capable de :
   -  SCRAPE_API_KEY ="......." 
   -  AVILY_API_KEY ="......."
 4. **Exécuter l’analyse :**
-    python main.py
+    streamlit run projet.py
 
    
 ### 📄 Exemple de rapport généré
